@@ -78,14 +78,14 @@ The root directory contains the following folders:
 
 ## How to Run the Code
 
-To get started with this project, ensure that you have Python 3.2 installed on your system and clone the repository and install the Python packages listed below:
+To get started with this project, ensure that you have Python 3.2 installed on your system and clone the repository and install the Python packages listed below:  
 - pandas
 - numpy
 
-To clone:
+To clone:  
     git clone https://github.com/DanielHughes1580/Project_4_Group_5.git
 
-Create a new Conda environment for the project dependencies. Run the following command:
+Create a new Conda environment for the project dependencies. Run the following command:  
     conda create --name dev python=3.2
 
 Activate the newly created Conda environment by running:
@@ -96,8 +96,10 @@ Install the project dependencies using pip
 To run the Logistic Regression and Random Forest Models use Jupyter notebooks. On the command line run the following command:
     Jupyter notebook
 
-For the Neural Network models, a google drive account is needed and Google Colab activated. The folders listed below need to   be created and all the files in the [Neural Networks](Jupyter_notebooks/Neural Networks/)   directory needto be copied to those folders:  
-/content/drive/My Drive/Colab Notebooks/Project_4/
+For the Neural Network models, a google drive account is needed and Google Colab activated. The folders listed below need to   
+be created and all the files in the [Neural Networks](Jupyter_notebooks/Neural Networks/)   
+directory need to be copied to those folders:    
+/content/drive/My Drive/Colab Notebooks/Project_4/  
 Run the neural network files. The will:  
     1) import dependencies  
     2) mount the google drive  
