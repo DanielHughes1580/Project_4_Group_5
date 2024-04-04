@@ -36,8 +36,8 @@ The root directory contains the following folders:
 - [Data_Cleaned](Data_Cleaned) - Contains the cleaned and scrubbed data files
 - [Data_Original](Data_Original) - Contains the original data files obtained from Kaggle
 - [Jupyter_notebooks](Jupyter_notebooks) - Contains the Jupyter notebooks used to clean the data and also contains a further three folders:
-    - [Neural Networks](Jupyter_notebooks/Neural-Networks) - Contains the Jupyter files for the Neural Network models
-    - [Random Forest](Jupyter_notebooks/Random-Forest) - Contains the Jupyter files for the Random Forest model
+    - [Neural Networks](Jupyter_notebooks/Neural%20Networks/) - Contains the Jupyter files for the Neural Network models
+    - [Random Forest](Jupyter_notebooks/Random%20Forest) - Contains the Jupyter files for the Random Forest model
     - [Logistics Regression](Jupyter_notebooks/Logistics-Regression) - Contains the Jupyter files for the Logistic Regression model 
 
 
