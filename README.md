@@ -61,7 +61,7 @@ The root directory contains the following folders:
     1) encode, split and scale data  
     2) define, compile and fit a neural network model    
     3) predict the outputs using test inputs    
-- [NN_baseline.ipynb](Jupyter_notebooks/Neural-Networks/NN_baseline.ipynb) - Code for a baseline Neural Network model
+- [NN_baseline.ipynb](Jupyter_notebooks/Neural%20Networks/NN_baseline.ipynb) - Code for a baseline Neural Network model
 - [NN_Optimise_by_Red_Dim.ipynb](Jupyter_notebooks/Neural%20Networks/NN_Optimise_by_Red_Dim.ipynb) - Neural Network models in which data dimensions are reduced by dropping columns
 - [NN_Optimise_by_Red_Dim_PCA.ipynb](Jupyter_notebooks/Neural%20Networks/NN_Optimise_by_Red_Dim_PCA.ipynb) - Neural Network models in which data dimensions are reduced by using Pricipal Components Analysis (PCA)
 - [NN_Optimise_by_Oversampling.ipynb](NN_Optimise_by_Oversampling) - Neural Network model in which the data is oversampled to balance the distribution of output classes
