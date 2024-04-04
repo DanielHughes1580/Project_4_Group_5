@@ -25,8 +25,7 @@ This project uses historical credit card data to predict the future behaviour of
 To do the prediction we explored different ways of modelling the data. Namely;
 
 - Recurrent neural networks
-- Logistics regression
-- SVM
+- Logistic regression
 - Random forest
 
 The main motivation for this project was to explore the best method for financial predictions in order to help make the best informed decisions on applications.
@@ -38,7 +37,7 @@ The root directory contains the following folders:
 - [Jupyter_notebooks](Jupyter_notebooks) - Contains the Jupyter notebooks used to clean the data and also contains a further three folders:
     - [Neural Networks](Jupyter_notebooks/Neural%20Networks/) - Contains the Jupyter files for the Neural Network models
     - [Random Forest](Jupyter_notebooks/Random%20Forest) - Contains the Jupyter files for the Random Forest model
-    - [Logistics Regression](Jupyter_notebooks/Logistics%20Regression) - Contains the Jupyter files for the Logistic Regression model 
+    - [Logistics Regression](Jupyter_notebooks/logistics%20regression) - Contains the Jupyter files for the Logistic Regression model 
 
 
 ## Data Files
