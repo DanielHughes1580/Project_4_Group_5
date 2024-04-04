@@ -49,8 +49,8 @@ The root directory contains the following folders:
 - [application_record.csv](Data_originial/application_record.csv) - This is one of the two original files obtained from Kaggle. It contains personal information about each customer such as gender, income, employments status etc.
 - [credit_record.csv](Data_originial/credit_record.csv) - This is one of the two original files obtained from Kaggle. It contains the status of the credit card loan over a period of months
 
-- [NN_baseline_2_layers_50_neurons.keras](Jupyter_notebooks/Neural Networks/NN_baseline_2_layers_50_neurons.keras) - The saved model for the baseline Neural Network model
-- [NN_baseline_2_layers_50_neurons.keras](Jupyter_notebooks/Neural Networks/NN_opt_fully_3_layers_100_tanh_neurons.keras) - The saved model for the optimised Neural Network model 
+- [NN_baseline_2_layers_50_neurons.keras](Jupyter_notebooks/Neural-Networks/NN_baseline_2_layers_50_neurons.keras) - The saved model for the baseline Neural Network model
+- [NN_baseline_2_layers_50_neurons.keras](Jupyter_notebooks/Neural-Networks/NN_opt_fully_3_layers_100_tanh_neurons.keras) - The saved model for the optimised Neural Network model 
 
 
 ## Jupyter Notebooks
@@ -62,11 +62,11 @@ The root directory contains the following folders:
     1) encode, split and scale data  
     2) define, compile and fit a neural network model    
     3) predict the outputs using test inputs    
-- [NN_baseline.ipynb](Jupyter_notebooks/Neural Networks/NN_baseline.ipynb) - Code for a baseline Neural Network model
-- [NN_Optimise_by_Red_Dim.ipynb](Jupyter_notebooks/Neural Networks/NN_Optimise_by_Red_Dim.ipynb) - Neural Network models in which data dimensions are reduced by dropping columns
-- [NN_Optimise_by_Red_Dim_PCA.ipynb](Jupyter_notebooks/Neural Networks/NN_Optimise_by_Red_Dim_PCA.ipynb) - Neural Network models in which data dimensions are reduced by using Pricipal Components Analysis (PCA)
+- [NN_baseline.ipynb](Jupyter_notebooks/Neural-Networks/NN_baseline.ipynb) - Code for a baseline Neural Network model
+- [NN_Optimise_by_Red_Dim.ipynb](Jupyter_notebooks/Neural-Networks/NN_Optimise_by_Red_Dim.ipynb) - Neural Network models in which data dimensions are reduced by dropping columns
+- [NN_Optimise_by_Red_Dim_PCA.ipynb](Jupyter_notebooks/Neural-Networks/NN_Optimise_by_Red_Dim_PCA.ipynb) - Neural Network models in which data dimensions are reduced by using Pricipal Components Analysis (PCA)
 - [NN_Optimise_by_Oversampling.ipynb](NN_Optimise_by_Oversampling) - Neural Network model in which the data is oversampled to balance the distribution of output classes
-- [NN_Optimise_by Structure_of NN.ipynb](NN_Optimise_by Structure_of-NN.ipynb) - Several Neural Network models which explore the effect of increasing the number of neurons and layers on the target accuracy
+- [NN_Optimise_by Structure_of NN.ipynb](NN_Optimise_by-Structure_of-NN.ipynb) - Several Neural Network models which explore the effect of increasing the number of neurons and layers on the target accuracy
 - [NN_Optimise_by_Changing_Act_Function.ipynb](NN_Optimise_by_Changing_Act_Function.ipynb) - Neural Network model which investigate the effect of changing the activation functions
 - [NN_fully_optimised.ipynb](NN_fully_optimised.ipynb) - Neural Network model which is fully optimised
 - [NN_model_test_outputs.ipynb](NN_model_test_outputs.ipynb) - Predict the outputs using test inputs
@@ -102,7 +102,7 @@ For the Neural Network models, a google drive account is needed and Google Colab
 Run the neural network files. The will:  
     1) import dependencies  
     2) mount the google drive  
-    3) access the notebook [NN_functions.ipynb](Jupyter_notebooks/Neural Networks/NN_functions.ipynb) with the defined functions  
+    3) access the notebook [NN_functions.ipynb](Jupyter_notebooks/Neural-Networks/NN_functions.ipynb) with the defined functions  
     4) import the data files from the github repository  
     5) run the function to encode, split and scale the data  
     6) run the function to define, compile and fit the neural network models  
