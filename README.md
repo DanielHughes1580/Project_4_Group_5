@@ -98,7 +98,7 @@ On the command line run the following command:
 - Jupyter notebook
 
 For the Neural Network models, a google drive account is needed and Google Colab activated. The folders listed  
-below need to be created and all the files in the [Neural Networks](Jupyter_notebooks/Neural Networks/)   
+below need to be created and all the files in the [Neural Networks](Jupyter_notebooks/Neural%20Networks/)   
 directory need to be copied to those folders:
 
 - /content/drive/My Drive/Colab Notebooks/Project_4/    
