@@ -65,7 +65,7 @@ The root directory contains the following folders:
 - [NN_Optimise_by_Red_Dim.ipynb](Jupyter_notebooks/Neural%20Networks/NN_Optimise_by_Red_Dim.ipynb) - Neural Network models in which data dimensions are reduced by dropping columns
 - [NN_Optimise_by_Red_Dim_PCA.ipynb](Jupyter_notebooks/Neural%20Networks/NN_Optimise_by_Red_Dim_PCA.ipynb) - Neural Network models in which data dimensions are reduced by using Pricipal Components Analysis (PCA)
 - [NN_Optimise_by_Oversampling.ipynb](NN_Optimise_by_Oversampling) - Neural Network model in which the data is oversampled to balance the distribution of output classes
-- [NN_Optimise_by Structure_of NN.ipynb](NN_Optimise_by%20Structure_of-NN.ipynb) - Several Neural Network models which explore the effect of increasing the number of neurons and layers on the target accuracy
+- [NN_Optimise_by Structure_of NN.ipynb](NN_Optimise_by%20Structure_of%20NN.ipynb) - Several Neural Network models which explore the effect of increasing the number of neurons and layers on the target accuracy
 - [NN_Optimise_by_Changing_Act_Function.ipynb](NN_Optimise_by_Changing_Act_Function.ipynb) - Neural Network model which investigate the effect of changing the activation functions
 - [NN_fully_optimised.ipynb](NN_fully_optimised.ipynb) - Neural Network model which is fully optimised
 - [NN_model_test_outputs.ipynb](NN_model_test_outputs.ipynb) - Predict the outputs using test inputs
