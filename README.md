@@ -97,12 +97,13 @@ To run the Logistic Regression and Random Forest Models use Jupyter notebooks.
 On the command line run the following command:  
 - Jupyter notebook
 
-For the Neural Network models, a google drive account is needed and Google Colab activated. The folders listed below  
-need to be created and all the files in the [Neural Networks](Jupyter_notebooks/Neural Networks/) directory need  
-to be copied to those folders:    
-- /content/drive/My Drive/Colab Notebooks/Project_4/    
+For the Neural Network models, a google drive account is needed and Google Colab activated. The folders listed  
+below need to be created and all the files in the [Neural Networks](Jupyter_notebooks/Neural Networks/)   
+directory need to be copied to those folders:
 
-Run the neural network files. The will:  
+- /content/drive/My Drive/Colab Notebooks/Project_4/    
+  
+Run the neural network files. They will:  
     1) import dependencies  
     2) mount the google drive  
     3) access the notebook [NN_functions.ipynb](Jupyter_notebooks/Neural%20Networks/NN_functions.ipynb) with the defined functions  
