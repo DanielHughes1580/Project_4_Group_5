@@ -38,7 +38,7 @@ The root directory contains the following folders:
 - [Jupyter_notebooks](Jupyter_notebooks) - Contains the Jupyter notebooks used to clean the data and also contains a further three folders:
     - [Neural Networks](Jupyter_notebooks/Neural%20Networks/) - Contains the Jupyter files for the Neural Network models
     - [Random Forest](Jupyter_notebooks/Random%20Forest) - Contains the Jupyter files for the Random Forest model
-    - [Logistics Regression](Jupyter_notebooks/Logistics-Regression) - Contains the Jupyter files for the Logistic Regression model 
+    - [Logistics Regression](Jupyter_notebooks/Logistics%20Regression) - Contains the Jupyter files for the Logistic Regression model 
 
 
 ## Data Files
@@ -49,8 +49,8 @@ The root directory contains the following folders:
 - [application_record.csv](Data_originial/application_record.csv) - This is one of the two original files obtained from Kaggle. It contains personal information about each customer such as gender, income, employments status etc.
 - [credit_record.csv](Data_originial/credit_record.csv) - This is one of the two original files obtained from Kaggle. It contains the status of the credit card loan over a period of months
 
-- [NN_baseline_2_layers_50_neurons.keras](Jupyter_notebooks/Neural-Networks/NN_baseline_2_layers_50_neurons.keras) - The saved model for the baseline Neural Network model
-- [NN_baseline_2_layers_50_neurons.keras](Jupyter_notebooks/Neural-Networks/NN_opt_fully_3_layers_100_tanh_neurons.keras) - The saved model for the optimised Neural Network model 
+- [NN_baseline_2_layers_50_neurons.keras](Jupyter_notebooks/Neural%20Networks/NN_baseline_2_layers_50_neurons.keras) - The saved model for the baseline Neural Network model
+- [NN_baseline_2_layers_50_neurons.keras](Jupyter_notebooks/Neural%20Networks/NN_opt_fully_3_layers_100_tanh_neurons.keras) - The saved model for the optimised Neural Network model 
 
 
 ## Jupyter Notebooks
@@ -63,16 +63,16 @@ The root directory contains the following folders:
     2) define, compile and fit a neural network model    
     3) predict the outputs using test inputs    
 - [NN_baseline.ipynb](Jupyter_notebooks/Neural-Networks/NN_baseline.ipynb) - Code for a baseline Neural Network model
-- [NN_Optimise_by_Red_Dim.ipynb](Jupyter_notebooks/Neural-Networks/NN_Optimise_by_Red_Dim.ipynb) - Neural Network models in which data dimensions are reduced by dropping columns
-- [NN_Optimise_by_Red_Dim_PCA.ipynb](Jupyter_notebooks/Neural-Networks/NN_Optimise_by_Red_Dim_PCA.ipynb) - Neural Network models in which data dimensions are reduced by using Pricipal Components Analysis (PCA)
+- [NN_Optimise_by_Red_Dim.ipynb](Jupyter_notebooks/Neural%20Networks/NN_Optimise_by_Red_Dim.ipynb) - Neural Network models in which data dimensions are reduced by dropping columns
+- [NN_Optimise_by_Red_Dim_PCA.ipynb](Jupyter_notebooks/Neural%20Networks/NN_Optimise_by_Red_Dim_PCA.ipynb) - Neural Network models in which data dimensions are reduced by using Pricipal Components Analysis (PCA)
 - [NN_Optimise_by_Oversampling.ipynb](NN_Optimise_by_Oversampling) - Neural Network model in which the data is oversampled to balance the distribution of output classes
-- [NN_Optimise_by Structure_of NN.ipynb](NN_Optimise_by-Structure_of-NN.ipynb) - Several Neural Network models which explore the effect of increasing the number of neurons and layers on the target accuracy
+- [NN_Optimise_by Structure_of NN.ipynb](NN_Optimise_by%20Structure_of-NN.ipynb) - Several Neural Network models which explore the effect of increasing the number of neurons and layers on the target accuracy
 - [NN_Optimise_by_Changing_Act_Function.ipynb](NN_Optimise_by_Changing_Act_Function.ipynb) - Neural Network model which investigate the effect of changing the activation functions
 - [NN_fully_optimised.ipynb](NN_fully_optimised.ipynb) - Neural Network model which is fully optimised
 - [NN_model_test_outputs.ipynb](NN_model_test_outputs.ipynb) - Predict the outputs using test inputs
 
-- [logistic_regression_baseline.ipynb](Jupyter_notebooks/logistics-regression/logistic_regression_baseline.ipynb) - Code for the baseline logistic regression model
-- [logistic_regression_optimised.ipynb](Jupyter_notebooks/logistics-regression/logistic_regression_optimised.ipynb) - Code for the optimised logistic regression model
+- [logistic_regression_baseline.ipynb](Jupyter_notebooks/logistics%20regression/logistic_regression_baseline.ipynb) - Code for the baseline logistic regression model
+- [logistic_regression_optimised.ipynb](Jupyter_notebooks/logistics%20regression/logistic_regression_optimised.ipynb) - Code for the optimised logistic regression model
 
 - [Random_Forest.ipynb](Jupyter_notebooks/Random Forest/Random_Forest.ipynb) - Code for the Random Forest models
 
